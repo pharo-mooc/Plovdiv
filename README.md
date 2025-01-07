@@ -1,3 +1,9 @@
+This repository is about a lecture on Advanced Object-Oriented Design 
+given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university of Plodviv.
+
+
+
+
 ## Thursday 16
 
 1 Overview: 
@@ -11,9 +17,9 @@
 
 -	http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S05-PharoSyntaxInANutshell.pdf 
 
-3 
+3 Practice: Counter/DSL
 
-4 
+4 Practice: Counter/DSL
 
 5 Design sending a message
 
