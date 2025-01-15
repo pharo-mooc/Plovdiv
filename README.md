@@ -21,11 +21,11 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ####  2 Brief overview of the Syntax 
 
--	http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S05-PharoSyntaxInANutshell.pdf 
+- http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S05-PharoSyntaxInANutshell.pdf
 
-#### 3 Practice: Counter/DSL
+#### 3 Practice: MOOC Quizes Module 1
 
-####  4 Practice: Counter/DSL
+####  4 Practice: ProfStef
 
 #### 5 Design: sending a message
 
