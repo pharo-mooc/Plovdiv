@@ -38,12 +38,7 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ## Friday 17
 
-#### 1 Getting started with XTDD
-
-- Live Counter by example
-- TDD http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-3-Tests-03-TDD.pdf
-
-#### 1 Messages 
+#### 1 Messages and exercise
 
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S01-Messages.pdf
 
@@ -57,9 +52,14 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-5-Essence-05-Super.pdf
 
-#### 3 Practice: Country Flag
+#### 1 Getting started with XTDD
 
-#### 4 Practice: Country Flag
+- Live Counter by example
+- TDD http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-3-Tests-03-TDD.pdf
+
+#### 3 Practice: Counter/DSL
+
+#### 4 Practice: Counter/DSL
 
 ### Lunch
 
