@@ -1,8 +1,6 @@
 This repository is about a lecture on Advanced Object-Oriented Design 
 given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university of Plodviv.
 
-- Each session is 45 min.
-
 - Exercise descriptions are in the folder Exercises
 
 - Install Pharo using the PharoLauncher from http://www.pharo.org
@@ -12,26 +10,27 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ## Thursday 16
 
-#### 1 Welcome and getting started with XTDD 
+#### 1 Welcome (40 min)
 
-- Introduction: oo design, test, oo design with Pharo
-- Live Counter by example
+- Introduction: oo design, oo design with Pharo
 - Pharo https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S02-WhatIsPharo.pdf
-- TDD http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-3-Tests-03-TDD.pdf
+- First look and Hello World in Pharo environment
 
-####  2 Brief overview of the Syntax 
+####  2 Brief overview of the Syntax (1.30 h)
 
 - http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S05-PharoSyntaxInANutshell.pdf
+- trying examples from the presentation in Pharo in Playground
+- How to pass the exam?
+  - Practice: MOOC Quizes Module 0
+  - watched 0.1 video and did 0.1, 0.2 quizzes
 
-#### 3 Practice: MOOC Quizes Module 1
-
-####  4 Practice: ProfStef
-
-#### 5 Design: sending a message
+#### 4 Design: sending a message (1 h)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-1-Essence-01-NotExample.pdf
 
 - https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-2-Essence-02-Dispatch.pdf
+
+####  5 Practice: ProfStef (30 min)
 
 ### Homework
 
@@ -39,7 +38,12 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ## Friday 17
 
-#### 1 Messages
+#### 1 Getting started with XTDD
+
+- Live Counter by example
+- TDD http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-3-Tests-03-TDD.pdf
+
+#### 1 Messages 
 
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S01-Messages.pdf
 
