@@ -38,7 +38,7 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ## Friday 17
 
-#### 1 Messages and exercise
+#### 1 Messages and exercise (15 min)
 
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S01-Messages.pdf
 
@@ -46,22 +46,26 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S03-Messages-Precedence.pdf
 
-#### 2 Design: self/super
+#### 2 Design: self/super (45 hour)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-4-Essence-04-Self.pdf
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-5-Essence-05-Super.pdf
 
-#### 1 Getting started with XTDD
+#### 1 Getting started with XTDD (1 hour)
 
 - Live Counter by example
 - TDD http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-3-Tests-03-TDD.pdf
 
-#### 3 Practice: Counter/DSL
+#### 3 Practice: Counter (1 hour)
 
-#### 4 Practice: Counter/DSL
+#### 4.1 Practice: DSL (45 min)
+
+- Explain class side methods
 
 ### Lunch
+
+#### 4.2 Practice: DSL (1 hour)
 
 #### 5 Design: Double dispatch
 	
