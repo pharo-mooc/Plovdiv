@@ -65,31 +65,24 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ### Lunch
 
-#### 4.2 Practice: DSL (1 hour)
+#### 4.2 Practice: DSL (1.30 hour)
 
-#### 5 Design: Double dispatch
+#### 5 Design: Double dispatch (30 min)
 	
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-1-DoubleDispatch-01-StoneExercise.pdf
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-2-DoubleDispatch-04-NoSymmetrical.pdf
 
-#### 6 Practice: Stone paper scissor
+#### 6 Practice: Stone paper scissor (15 min)
 
-#### 7 Practice: Stone paper scissor
+#### 7 Practice: Stone paper scissor lizzard Spock (15 min)
 
-#### 8 Design: Hook and Template
-
-- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-2-Essence-07-SelfSendsArePlansForReuse.pdf
+#### 8 Design: Hook and Template (30 min)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-2-Essence-07-SelfSendsArePlansForReuse.pdf
-
-#### 9 Practice: Expressions
-
-#### 10 Design Points
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-4-BasicPrinciples-05-FatClassesAreBad.pdf
 
-- add some more here?
 
 ### Homework
 
@@ -104,6 +97,8 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-3-Principles-02-AboutGlobalVariables.pdf
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-1-DesignPattern-03-Composite.pdf
+
+#### 9 Practice: Expressions
 
 #### 2 Practice: Expression
 
