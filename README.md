@@ -24,13 +24,13 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
   - Practice: MOOC Quizes Module 0
   - watched 0.1 video and did 0.1, 0.2 quizzes
 
-#### 4 Design: sending a message (1 h)
+#### 3 Design: sending a message (1 h)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-1-Essence-01-NotExample.pdf
 
 - https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-2-Essence-02-Dispatch.pdf
 
-####  5 Practice: ProfStef (30 min)
+#### 4 Practice: ProfStef (30 min)
 
 ### Homework
 
@@ -52,32 +52,32 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-5-Essence-05-Super.pdf
 
-#### 1 Getting started with XTDD (1 hour)
+#### 3 Getting started with XTDD (1 hour)
 
 - Live Counter by example
 - TDD http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-3-Tests-03-TDD.pdf
 
-#### 3 Practice: Counter (1 hour)
+#### 4 Practice: Counter (1 hour)
 
-#### 4.1 Practice: DSL (45 min)
+#### 5.1 Practice: DSL (45 min)
 
 - Explain class side methods
 
 ### Lunch
 
-#### 4.2 Practice: DSL (1.30 hour)
+#### 5.2 Practice: DSL (1.30 hour)
 
-#### 5 Design: Double dispatch (30 min)
+#### 6 Design: Double dispatch (30 min)
 	
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-1-DoubleDispatch-01-StoneExercise.pdf
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-2-DoubleDispatch-04-NoSymmetrical.pdf
 
-#### 6 Practice: Stone paper scissor (15 min)
+#### 7 Practice: Stone paper scissor (15 min)
 
-#### 7 Practice: Stone paper scissor lizzard Spock (15 min)
+#### 8 Practice: Stone paper scissor lizzard Spock (15 min)
 
-#### 8 Design: Hook and Template (30 min)
+#### 9 Design: Hook and Template (30 min)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-2-Essence-07-SelfSendsArePlansForReuse.pdf
 
@@ -98,9 +98,9 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-1-DesignPattern-03-Composite.pdf
 
-#### 9 Practice: Expressions
+#### 2 Practice: Expressions
 
-#### 2 Practice: Expression
+#### 3 Practice: Expression
 
 #### 4 Design: Visitor
 
@@ -119,13 +119,8 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 #### 7 Practice: Expression + visitor
 
-#### 8 Practice: Robots | Memory game
 
-#### 9 Practice: Robots | Memory game
-
-
-
-#### 10 Design: About coupling
+#### 8 Design: About coupling
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-1-Principles-04-LawOfDemeter.pdf
 
@@ -145,34 +140,32 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-4-BasicPrinciples-06-DelegationVsInheritance.pdf
 
-#### 2 Practice: Finishing some exercises
+#### 2 Design : 
 
-#### 3 Examen 
+- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-3-DesignPattern-07-Command-Definition.pdf
 
-#### 4 Examen 
+#### 3 Practice: Robots | Memory game
+
+#### 4 Practice: Robots | Memory game
 
 ### Lunch
 
-
-#### 5 Examen Correction
-
-
-#### 6 Design: about sharing
+#### 5 Design: about sharing
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M8-2-Principles-08-Sharing.pdf
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-1-Principles-01-LazyInitialization.pdf
 
-#### 7 Practice: Robots / Memory Game
+#### 6 Practice: Robots / Memory Game
 
-#### 8 Fun with meta programming
+#### 7 Fun with meta programming
 
 - How to transform method on the fly
 
 - Little Visitors on AST
 
 
-#### 9 Practice: Robots / Memory Game
+#### 8 Practice: Robots / Memory Game
 
 
 #### 10 Conclusion 
