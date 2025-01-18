@@ -23,6 +23,7 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 - How to pass the exam?
   - Practice: MOOC Quizes Module 0
   - watched 0.1 video and did 0.1, 0.2 quizzes
+- Small example with creating a few classes and instantiating them in Playground (suggestion)
 
 #### 3 Design: sending a message (1 h)
 
