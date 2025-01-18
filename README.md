@@ -92,15 +92,13 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ## Saturday 18
 
-#### 1 Design: Composite and Global Variables
+#### 1 Practice: Expressions
 
-- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-3-Principles-02-AboutGlobalVariables.pdf
+#### 2 Practice: Expression
+
+#### 3 Design: Composite
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-1-DesignPattern-03-Composite.pdf
-
-#### 2 Practice: Expressions
-
-#### 3 Practice: Expression
 
 #### 4 Design: Visitor
 
@@ -108,27 +106,23 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ### Lunch
 
-#### 5 Design : 
+#### 5 Practice: Expressions + visitor
 
-- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-3-DesignPattern-07-Command-Definition.pdf
+#### 6 Practice: Expression + visitor
 
-- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-7-Principles-01-AvoidIsNil.pdf
+#### 7 Design: Global Variables
 
-
-#### 6 Practice: Expressions + visitor
-
-#### 7 Practice: Expression + visitor
-
+- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-3-Principles-02-AboutGlobalVariables.pdf
 
 #### 8 Design: About coupling
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-1-Principles-04-LawOfDemeter.pdf
 
-- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-5-CaseStudy-05-Sokoban-Analysis.pdf
-
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-4-CaseStudy-06-LayeredSettingsArchitecture.pdf
 
 ### Homework
+
+- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-5-CaseStudy-05-Sokoban-Analysis.pdf
 
 - Watch http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-2-BasicPrinciples-04-AboutObjectsVSData.pdf
 
@@ -143,6 +137,8 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 #### 2 Design : 
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-3-DesignPattern-07-Command-Definition.pdf
+
+- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-7-Principles-01-AvoidIsNil.pdf
 
 #### 3 Practice: Robots | Memory game
 
