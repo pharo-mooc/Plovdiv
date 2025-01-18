@@ -111,15 +111,15 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 #### 6 Practice: Expression + visitor
 
-#### 7 Design: Global Variables
 
-- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-3-Principles-02-AboutGlobalVariables.pdf
+#### 7 Design: delegation vs. Inheritance
+
+- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-4-BasicPrinciples-06-DelegationVsInheritance.pdf
 
 #### 8 Design: About coupling
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-1-Principles-04-LawOfDemeter.pdf
 
-- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-4-CaseStudy-06-LayeredSettingsArchitecture.pdf
 
 ### Homework
 
@@ -131,27 +131,29 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ## Sunday 19
 
-#### 1 Design: delegation vs. Inheritance
-
-- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-4-BasicPrinciples-06-DelegationVsInheritance.pdf
-
-#### 2 Design : 
+#### 1 Design : 
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-3-DesignPattern-07-Command-Definition.pdf
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-7-Principles-01-AvoidIsNil.pdf
 
-#### 3 Practice: Robots | Memory game
+#### 2 Practice: Robots | Memory game
 
-#### 4 Practice: Robots | Memory game
+#### 3 Practice: Robots | Memory game
 
 ### Lunch
 
-#### 5 Design: about sharing
+#### 4 Design: about sharing
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M8-2-Principles-08-Sharing.pdf
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-1-Principles-01-LazyInitialization.pdf
+
+#### 5 Design: Global Variables
+
+- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-3-Principles-02-AboutGlobalVariables.pdf
+
+- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-4-CaseStudy-06-LayeredSettingsArchitecture.pdf
 
 #### 6 Practice: Robots / Memory Game
 
@@ -161,15 +163,17 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 - Little Visitors on AST
 
+#### 8 How to check in your code with Git?
 
-#### 8 Practice: Robots / Memory Game
-
-
-#### 10 Conclusion 
+#### 9 Conclusion 
 
 - About process
 - Use tests to encode your knowledge
 - Refactor
+- Tools presentation on ecosystem
+- ESUG
+- isLoop
+- GSoC
 
 
 ## Exercices
