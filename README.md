@@ -93,15 +93,15 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ## Saturday 18
 
-#### 1 Practice: Expressions
+#### 1 Practice: Expression (2.30 h)
 
 #### 2 Practice: Expression
 
-#### 3 Design: Composite
+#### 3 Design: Composite (15 min)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-1-DesignPattern-03-Composite.pdf
 
-#### 4 Design: Visitor
+#### 4 Design: Visitor (15 min)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-4-DesignPattern-04-Visitor.pdf
 
