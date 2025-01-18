@@ -107,16 +107,16 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ### Lunch
 
-#### 5 Practice: Expressions + visitor
+#### 5 Practice: Expressions + visitor (2 h)
 
-#### 6 Practice: Expression + visitor
+#### 6 Practice: Expression + visitor (1 h)
 
 
-#### 7 Design: delegation vs. Inheritance
+#### 7 Design: delegation vs. Inheritance (15 min)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-4-BasicPrinciples-06-DelegationVsInheritance.pdf
 
-#### 8 Design: About coupling
+#### 8 Design: About coupling (15 min)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-1-Principles-04-LawOfDemeter.pdf
 
