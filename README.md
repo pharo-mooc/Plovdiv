@@ -144,10 +144,12 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 - Showcase debugger
 - Track code with Git
 - Upload code to GitHub and clone from GitHub
+- 
+#### 4 How to check in your code with Git? (15 min)
 
-#### 4 Practice: Robots | Memory game (1.15 h)
+#### 5 Practice: Robots | Memory game (1 h)
 
-#### 5 Design: about sharing (30 min)
+#### 6 Design: about sharing (30 min)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M8-2-Principles-08-Sharing.pdf
 
@@ -155,31 +157,31 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ### Lunch
 
-#### 6 Design: Global Variables
+#### 7 Design: Global Variables (30 min)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-3-Principles-02-AboutGlobalVariables.pdf
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-4-CaseStudy-06-LayeredSettingsArchitecture.pdf
 
-#### 7 Practice: Robots / Memory Game
+#### 8 Practice: Robots / Memory Game (1 h)
 
-#### 8 Fun with meta programming
+#### 9 Fun with meta programming (15 min)
 
 - How to transform method on the fly
 
 - Little Visitors on AST
 
-#### 9 How to check in your code with Git?
 
-#### 10 Conclusion 
+#### 10 Tools presentation on ecosystem (1 h)
+
+#### 10 Conclusion (15 min)
 
 - About process
 - Use tests to encode your knowledge
 - Refactor
-- Tools presentation on ecosystem
 - ESUG
-- isLoop
 - GSoC
+- isLoop
 
 
 ## Exercices
