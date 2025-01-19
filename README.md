@@ -131,41 +131,47 @@ given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university o
 
 ## Sunday 19
 
-#### 1 Design : 
+#### 1 Design Command and isNil (30 min)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-3-DesignPattern-07-Command-Definition.pdf
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-7-Principles-01-AvoidIsNil.pdf
 
-#### 2 Practice: Robots | Memory game
+#### 2 Practice: Robots | Memory game (1.30 h)
 
-#### 3 Practice: Robots | Memory game
+#### 3 Showcase (15 min)
 
-### Lunch
+- Showcase debugger
+- Track code with Git
+- Upload code to GitHub and clone from GitHub
 
-#### 4 Design: about sharing
+#### 4 Practice: Robots | Memory game (1.15 h)
+
+#### 5 Design: about sharing (30 min)
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M8-2-Principles-08-Sharing.pdf
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M7-1-Principles-01-LazyInitialization.pdf
 
-#### 5 Design: Global Variables
+### Lunch
+
+#### 6 Design: Global Variables
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-3-Principles-02-AboutGlobalVariables.pdf
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-4-CaseStudy-06-LayeredSettingsArchitecture.pdf
 
-#### 6 Practice: Robots / Memory Game
+#### 7 Practice: Robots / Memory Game
 
-#### 7 Fun with meta programming
+#### 8 Fun with meta programming
 
 - How to transform method on the fly
 
 - Little Visitors on AST
 
-#### 8 How to check in your code with Git?
+#### 9 How to check in your code with Git?
 
-#### 9 Conclusion 
+#### 10 Conclusion 
 
 - About process
 - Use tests to encode your knowledge
