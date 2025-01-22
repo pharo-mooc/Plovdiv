@@ -1,5 +1,5 @@
 This repository is about a lecture on Advanced Object-Oriented Design 
-given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university of Plodviv.
+given by S. Ducasse, B. Sarenac and G. Rakic in January 2024 at the university of Plovdiv.
 
 - Each session is 45 min.
 
