@@ -1,6 +1,7 @@
 
 If you find error or typos please send PullRequest to the following repositories:
 
+https://github.com/SquareBracketAssociates/LearningOOPWithPharo
 
 -	Counter
 -	DSL
